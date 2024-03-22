@@ -1,0 +1,7 @@
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\bin\Debug\labwork-projects.exe.config
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\bin\Debug\labwork-projects.exe
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\bin\Debug\labwork-projects.pdb
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\obj\Debug\labwork-projects.csproj.AssemblyReference.cache
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\obj\Debug\labwork-projects.csproj.CoreCompileInputs.cache
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\obj\Debug\labwork-projects.exe
+C:\Users\Yellowteeth\source\repos\labwork-projects\labwork-projects\obj\Debug\labwork-projects.pdb
