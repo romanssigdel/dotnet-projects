@@ -24,15 +24,19 @@ namespace labwork_projects
             Console.WriteLine(b);
             */
 
-            
+
             /* Question no 3.
            Q3 q3 = new Q3();
             Q3 q3i = new Q3("Ram", "Nala");
            Q3 q3j = Q3.showPrivate("hello");
             q3i.show();*/
 
-
-            
+            /* Question no 4
+            Q4 t1 = new Q4(1,2);
+            Q4 t2 = new Q4(2,3);
+            Q4 sum = t1 + t2;
+            Console.WriteLine("x: "+ sum.x +"y: "+ sum.y);
+            */
         }
     }
 }
