@@ -40,6 +40,50 @@ namespace labwork_projects
             Q4 sum = t1 + t2;
             Console.WriteLine("x: "+ sum.x +"y: "+ sum.y);
             */
+
+            /* Question no 5
+            Multilevel inheritance
+            BabyDog babyDog = new BabyDog();
+            babyDog.eats();
+            babyDog.barks();
+            babyDog.crys();
+            Console.WriteLine("Grandparent's name is "+ babyDog.name);
+
+            Multiple inheritance
+            BabyCat babycat = new BabyCat();
+            babycat.eats();
+            babycat.meows();
+            babycat.rollsUp();
+            Console.WriteLine("Grandparent's name is "+babycat.name);
+            */
+
+            /*Question no 6
+            //Method overriding
+            Dog1 dog1 = new Dog1();
+            dog1.eats();
+
+            //Method overloading
+            Sum sum =  new Sum();
+            int s1 = sum.add(1, 2, 3);
+            Console.WriteLine(s1);
+            int s2 = sum.add(1,2);
+            Console.WriteLine(s2);
+            */
+
+            /*question no 7
+             * Stack memory operation
+            Stack stack = new Stack(5);
+            stack.push(10);
+            stack.push(20);
+            stack.push(30);
+            stack.push(23);
+            stack.push(23);
+            stack.pop();
+            stack.pop();
+            stack.pop();
+            stack.peek();
+            stack.display();
+            */
         }
     }
 }
