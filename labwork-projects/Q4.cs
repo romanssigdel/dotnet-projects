@@ -9,10 +9,15 @@ namespace labwork_projects
 {
     public class Q4
     {
-        public static int operator +(int a, int b)
+        public int x, y;
+        public Q4(int x, int y)
         {
-            int sum = a + b;
-            return sum;
+            this.x = x;
+            this.y = y;
+        }
+        public static Q4 operator +(Q4 t1, Q4 t2)
+        {
+            return new Q4(t1.x+t2.x,t1.y+t2.y);
         }
     }
 }
