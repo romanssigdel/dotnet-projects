@@ -8,14 +8,21 @@ namespace labwork_projects
 {
     public class Q3
     {
+        
         public string name;
         public string address;
         private string message;
+
+        //Parameterized Constructor
         public Q3(string name,string adddress) {
             this.name = name;
             this.address = adddress;
         } 
+
+        //Default Constructor
         public Q3 () { }
+
+        //Private Constructor
         private Q3(string message) {
         Console.WriteLine(message);
         }

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace labwork_projects
 {
+    //Polymorphism
     public class Q2
     {
         public int sum(int x, int y)

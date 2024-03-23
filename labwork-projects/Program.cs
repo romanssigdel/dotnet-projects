@@ -17,6 +17,7 @@ namespace labwork_projects
             */
 
             /* Question no 2.
+             * Polymorphism
              Q2 q2 = new Q2();
             int a = q2.sum(5, 6);
             Console.WriteLine(a);
@@ -26,12 +27,14 @@ namespace labwork_projects
 
 
             /* Question no 3.
+             * Default, Parameterized, Default Constructor
            Q3 q3 = new Q3();
             Q3 q3i = new Q3("Ram", "Nala");
            Q3 q3j = Q3.showPrivate("hello");
             q3i.show();*/
 
             /* Question no 4
+             * Operator Overloading
             Q4 t1 = new Q4(1,2);
             Q4 t2 = new Q4(2,3);
             Q4 sum = t1 + t2;
