@@ -71,7 +71,7 @@ namespace labwork_projects
             */
 
             /*question no 7
-             * Stack memory operation
+             //Stack memory operation
             Stack stack = new Stack(5);
             stack.push(10);
             stack.push(20);
@@ -84,6 +84,21 @@ namespace labwork_projects
             stack.peek();
             stack.display();
             */
+
+            //question no 8
+            //Q8 q8 = new Q8();
+            // if statement
+            //q8.primeComposite();
+            //switch
+            //q8.calculate();
+            //conditional statement
+            //q8.max();
+
+            //Question no 9
+            Q9 q9 = new Q9();
+            //q9.forLoop();
+            //q9.whileLoop();
+            q9.doWhileLoop();
         }
     }
 }
