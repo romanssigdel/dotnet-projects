@@ -26,13 +26,13 @@ namespace labwork_projects
             */
 
 
-            /*Question no 3.
+            //Question no 3.
               //Default, Parameterized, Default Constructor
            Q3 q3 = new Q3();
             Q3 q3i = new Q3("Ram", "Nala");
            Q3 q3j = Q3.showPrivate("hello");
             q3i.show();
-            */
+            //
 
             /* Question no 4
              * Operator Overloading
@@ -102,12 +102,27 @@ namespace labwork_projects
             //q9.whileLoop();
             //q9.doWhileLoop();
 
+            //q.no 10
             //Reverse rev = new Reverse();
             //rev.reverseNumber();
             //rev.reverseString();
 
-            Q11 q11 = new Q11();
-            q11.oneDimensionalArray();
+            //q.no 11
+            //Q11 q11 = new Q11();
+            //q11.oneDimensionalArray();
+
+            //Q.no 15
+            /*Demo obj = new Demo();
+            AddDelegate addDelegate = new AddDelegate(obj.Sum);
+            addDelegate(12, 10);
+
+            DiffDelegate diffDelegate = new DiffDelegate(Demo.diff);
+            int d = diffDelegate(4, 5);
+            Console.WriteLine(d);
+
+            GetNameDelegate getNameDelegate = new GetNameDelegate(obj.getName);
+            string name = getNameDelegate("Ram");
+            Console.WriteLine(name);*/
         }
     }
 }
