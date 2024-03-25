@@ -12,8 +12,8 @@ namespace labwork_projects
         {
             /* Question no 1.
            Q1 q1 = new Q1();
-            q1.testRead();
             q1.testReadline();
+            q1.testRead();
             */
 
             /* Question no 2.
@@ -26,12 +26,13 @@ namespace labwork_projects
             */
 
 
-            /* Question no 3.
-             * Default, Parameterized, Default Constructor
+            /*Question no 3.
+              //Default, Parameterized, Default Constructor
            Q3 q3 = new Q3();
             Q3 q3i = new Q3("Ram", "Nala");
            Q3 q3j = Q3.showPrivate("hello");
-            q3i.show();*/
+            q3i.show();
+            */
 
             /* Question no 4
              * Operator Overloading
@@ -42,6 +43,7 @@ namespace labwork_projects
             */
 
             /* Question no 5
+             * 
             Multilevel inheritance
             BabyDog babyDog = new BabyDog();
             babyDog.eats();
@@ -95,10 +97,14 @@ namespace labwork_projects
             //q8.max();
 
             //Question no 9
-            Q9 q9 = new Q9();
+            //Q9 q9 = new Q9();
             //q9.forLoop();
             //q9.whileLoop();
-            q9.doWhileLoop();
+            //q9.doWhileLoop();
+
+            Reverse rev = new Reverse();
+            //rev.reverseNumber();
+            rev.reverseString();
         }
     }
 }
