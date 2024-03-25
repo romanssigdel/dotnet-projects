@@ -102,9 +102,12 @@ namespace labwork_projects
             //q9.whileLoop();
             //q9.doWhileLoop();
 
-            Reverse rev = new Reverse();
+            //Reverse rev = new Reverse();
             //rev.reverseNumber();
-            rev.reverseString();
+            //rev.reverseString();
+
+            Q11 q11 = new Q11();
+            q11.oneDimensionalArray();
         }
     }
 }
