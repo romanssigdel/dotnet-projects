@@ -116,8 +116,12 @@ namespace labwork_projects
             //q12.singleDimensionalArray();
 
             //Q.on 13
-            Q13 q13 = new Q13("Ram","Nala");
-            q13.profile();
+            //Q13 q13 = new Q13("Ram","Nala",23);
+            //q13.profile();
+
+            //Q.no 14
+            //Q14 q14 = new Q14();
+            //q14.sum();
 
             //Q.no 15
             /*Demo obj = new Demo();
