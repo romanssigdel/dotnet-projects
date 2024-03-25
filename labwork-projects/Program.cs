@@ -27,12 +27,12 @@ namespace labwork_projects
 
 
             //Question no 3.
-              /*Default, Parameterized, Default Constructor
-           Q3 q3 = new Q3();
-            Q3 q3i = new Q3("Ram", "Nala");
-           Q3 q3j = Q3.showPrivate("hello");
-            q3i.show();
-            */
+            /*Default, Parameterized, Default Constructor
+         Q3 q3 = new Q3();
+          Q3 q3i = new Q3("Ram", "Nala");
+         Q3 q3j = Q3.showPrivate("hello");
+          q3i.show();
+          */
 
             /* Question no 4
              * Operator Overloading
@@ -112,8 +112,12 @@ namespace labwork_projects
             //q11.oneDimensionalArray();
 
             //Q.no 12
-            Q12 q12 = new Q12();
-            q12.singleDimensionalArray();
+            //Q12 q12 = new Q12();
+            //q12.singleDimensionalArray();
+
+            //Q.on 13
+            Q13 q13 = new Q13("Ram","Nala");
+            q13.profile();
 
             //Q.no 15
             /*Demo obj = new Demo();
