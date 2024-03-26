@@ -135,6 +135,12 @@ namespace labwork_projects
             GetNameDelegate getNameDelegate = new GetNameDelegate(obj.getName);
             string name = getNameDelegate("Ram");
             Console.WriteLine(name);*/
+
+            //Q.no17
+            Q17 q17 = new Q17();
+            q17.lambdaExpns();
+            Student student = new Student();
+            student.lambdaExpnSort();
         }
     }
 }
